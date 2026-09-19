@@ -122,9 +122,7 @@ https://files.catbox.moe/scx9sh.mp4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
-http://013tv.com:8080/F33848/cbd9779b/162141
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar SD" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="[ID] Indonesia Channel 1",Indosiar SD
