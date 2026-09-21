@@ -345,13 +345,6 @@ https://files.catbox.moe/scx9sh.mp4
 # ==============================
 # Vision+
 # ==============================
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=1&t=YXV0by1hYzYyOGY0Y2ZkYTFiY2FjfDE3ODk5NTA1NzV8MmJkY2JiOGQxMDJkYTA5MTJmMmNlMGIyODdhNTNmYjBmMDM2YTBhN2M3NTE3NjdiYmZkNjBmODg4YzA4ZmI1OA
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://visionplus.drmiontv.workers.dev/playlist.m3u
-https://files.catbox.moe/scx9sh.mp4
 
 # ==============================
 # All Sports Liga Eropa
