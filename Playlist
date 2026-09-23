@@ -2672,13 +2672,9 @@ https://files.catbox.moe/scx9sh.mp4
 # Malaysia
 # ==============================
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" group-title="Malaysia",Astro Ceria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4cMAJw-zfp7pCqrypOiAI5Q=Q_Uc/dash-wv/jitp-linearwm/2606/default_ott.mpd
+http://www.layarku.tv/media/ceria.m3u8
 https://tv123.cc.cd/live.php/?ch=876e2ca0493
+https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/80/73/6d/80736de6934450da3f972c7b99815054.jpg" x-spion-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxobpMmj1ypCeZi_Bs3gxdIs-gfBiwZHCs93AhGJ1GT6WQDcV8PwbgCX3USsOin3Js1LTPBvASpgbGJDAjdJEQg_pIU48EORh9mBEwGJ48NixWISm96J28NcL9Un8-dx_cy30Zb78Be9GTT6sXH4aaF27QXA1Ywu5CLJeRWxFmV_l5i-iXPPpI4quoLOu/s700/OH%20MY%20CERIA.png" group-title="Malaysia" x-source="GEulis TV" ,OH MY CERIA!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
