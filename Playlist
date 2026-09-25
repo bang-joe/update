@@ -66,6 +66,8 @@ https://files.catbox.moe/scx9sh.mp4
 # ==============================
 # [ID] Indonesia Channel 1
 # ==============================
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="Timnas Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG8-E2FMrfSJdolpS8dvS8GRRHh4P5gD-paStxFh2qw&s=10" group-title="TIMNAS INDONESIA",Timnas Indonesia
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas1.m3u8
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="[ID] Indonesia Channel 1",ANTV
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
