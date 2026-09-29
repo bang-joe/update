@@ -1,0 +1,323 @@
+#EXTM3U
+
+# ==============================
+# BEIN SPORTS
+# ==============================
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS1.bi-en.png" group-title="All Sports Liga Eropa", BEIN SPORTS 1 🇦🇺
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS2.bi-en.png" group-title="All Sports Liga Eropa", BEIN SPORTS 2 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="http://epg.ophion.feralhosting.com/logos/beIN/beIN_SPORTS3.bi-en.png" group-title="All Sports Liga Eropa", BEIN SPORTS 3 🇦🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beINSportsextra.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="All Sports Liga Eropa", BEIN SPORTS EXTRA
+EXTVLCOPT:http-referrer=https://hd1.xemtv.net/kenh/beinsports-xtra.php
+#EXTINF:-1 group-title="All Sports Liga Eropa",playlist.m3u8
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR1.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 2
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR2.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 3
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22//BeinSportAR3.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PMXV5Y.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 4
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR4.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1HjohX.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 5
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR5.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifo0n1F.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 6
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR6.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pOnI0o.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 7
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR7.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z914fFo.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 8
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR8.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fzqkpMd.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Arabia 9
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR9.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports Haber HD TR" tvg-logo="http://epg.one/img2/2618.png" group-title="beIN Sports",beIN Sports Haber HD TR
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2499/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3047" tvg-name="beIN Sports 1 HD QA" tvg-logo="http://epg.one/img/3047.png" group-title="beIN Sports",beIN Sports 1 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3048" tvg-name="beIN Sports 3 HD QA" tvg-logo="http://epg.one/img/3048.png" group-title="beIN Sports",beIN Sports 3 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3049" tvg-name="beIN Sports 4 HD QA" tvg-logo="http://epg.one/img/3049.png" group-title="beIN Sports",beIN Sports 4 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3051" tvg-name="beIN Sports 6 HD QA" tvg-logo="http://epg.one/img/3051.png" group-title="beIN Sports",beIN Sports 6 HD QA
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/6127/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3052" tvg-name="beIN Sports 7 HD QA" tvg-logo="http://epg.one/img/3052.png" group-title="beIN Sports",beIN Sports 7 HD QA
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/6128/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3047" tvg-name="beIN Sports 1 HD TR" tvg-logo="http://epg.one/img/3047.png" group-title="beIN Sports",beIN Sports 1 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3874" tvg-name="beIN Sports 2 HD TR" tvg-logo="http://epg.one/img/3874.png" group-title="beIN Sports",beIN Sports 2 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="3048" tvg-name="beIN Sports 3 HD TR" tvg-logo="http://epg.one/img/3048.png" group-title="beIN Sports",beIN Sports 3 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="Bein Sports Extra HD" tvg-name="Bein Sports Extra HD" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="beIN Sports",Bein Sports Extra HD
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5kClAk.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 1
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQsnQpm.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GibgpKE.jpeg" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Australia 3
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/1348103.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7m1lLKh.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra USA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrQmJYs.jpeg" tvg-id="itzplay.id" group-title="beIN Sports", beIN Sports Xtra Ã± USA / En EspaÃ±ol
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="🔴PREMIUM SPORT",beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="🔴PREMIUM SPORT",beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://shorter.me/sYn-B" group-title="🔴PREMIUM SPORT",BeIN Sports AU 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://shorter.me/-zUyl" group-title="🔴PREMIUM SPORT",BeIN Sports AU 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://shorter.me/KE4S9" group-title="🔴PREMIUM SPORT",BeIN Sports AU 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beIN Sports 1 Indonesia" tvg-name="BeIN Sports AU 1" tvg-logo="mmm" group-title="[ID] Sports Premium",BeIN Sports AU 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beIN Sports 1 Indonesia" tvg-name="BeIN Sports AU 2" tvg-logo="mmm" group-title="[ID] Sports Premium",BeIN Sports AU 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beIN Sports 1 Indonesia" tvg-name="BeIN Sports AU 3" tvg-logo="mmm" group-title="[ID] Sports Premium",BeIN Sports AU 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="Bein Sport.us" tvg-name="beIN Sport Xtra" tvg-logo="https://i.imgur.com/GhwnOic.jpeg" group-title="SPORTS",beIN Sport Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeinSportsespaa" tvg-name="BeinSports españa" tvg-logo="https://cdn.jsdelivr.net/gh/wetvplayer/wetvimage@main/logos/BeinSports_espa_a_53e057.png" group-title="[ID] Sports Premium",BeinSports españa
+http://api.353505.xyz:80/live/123/123/2831.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports En Español HD US" tvg-logo="http://epg.one/img/8344.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports En Español HD US
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/30015/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="9213" tvg-name="beIN Sports US" tvg-logo="http://epg.one/img/9213.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports US
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31048/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="9216" tvg-name="beIN Sports 4 US" tvg-logo="http://epg.one/img/9216.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 4 US
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31051/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="9217" tvg-name="beIN Sports 5 US" tvg-logo="http://epg.one/img/9217.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 5 US
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31052/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="9218" tvg-name="beIN Sports 6 US" tvg-logo="http://epg.one/img/9218.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports 6 US
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31053/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="8344" tvg-name="beIN Sports CA" tvg-logo="http://epg.one/img/8344.png" group-title="USA TV & CANADA TV"& CANADA TV",beIN Sports CA
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32043/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://shorter.me/sYn-B" group-title="SPORTS",BeIN Sports 1 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://shorter.me/-zUyl" group-title="SPORTS",BeIN Sports 2 UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeINSportsXTRA1080p" tvg-name="BeIN Sports XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="SPORTS",BeIN Sports XTRA (1080p)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beINSportsXTRAenEspanol1080p" tvg-name="beIN Sports XTRA en Espanol (1080p)" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="SPORTS",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BEINSPORTS1MLYSIA" tvg-name="BEINSPORTS 1 (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",BEINSPORTS 1 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776210.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BEINSPORTS2MLYSIA" tvg-name="BEINSPORTS 2 (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",BEINSPORTS 2 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776211.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BEINSPORTS3MLYSIA" tvg-name="BEINSPORTS 3 (MLYSIA)" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SPORTS",BEINSPORTS 3 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776212.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeiNARSports2" tvg-name="BeiN AR Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="SPORTS",BeiN AR Sports 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeiNARSports3" tvg-name="BeiN AR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="SPORTS",BeiN AR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeiNARSports4" tvg-name="BeiN AR Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax4.png" group-title="SPORTS",BeiN AR Sports 4
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeiNFRSports1" tvg-name="BeiN FR Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="SPORTS",BeiN FR Sports 1
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="BeiNFRSports3" tvg-name="BeiN FR Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="SPORTS",BeiN FR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beINSportsXtra" tvg-name="beIN Sports Xtra" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2423f32d-c464-471b-9476-3d2019ea99dc" group-title="SPORTS",beIN Sports Xtra
+https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol" tvg-name="beIN Sports Xtra en Espanol" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/48dc586f-e4c2-49c4-9cee-f1ebc1773aae" group-title="SPORTS",beIN Sports Xtra en Espanol
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra%20Espanol&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=es&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+https://files.catbox.moe/scx9sh.mp4
