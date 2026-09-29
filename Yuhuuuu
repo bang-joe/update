@@ -1,0 +1,156 @@
+#EXTM3U
+
+# ==============================
+# US| SPORTS NETWORK
+# ==============================
+
+#EXTINF:-1 tvg-id="91903" tvg-name="US| NESN PLUS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91903.png" group-title="US| SPORTS NETWORK",US| NESN PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=91903&extension=ts&play_token=9nCHn3Cmbu
+
+#EXTINF:-1 tvg-id="1127391" tvg-name="US| BEIN SPORTS XTRA N (ES) HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1127391.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS XTRA N (ES) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1127391&extension=ts&play_token=I8OoZ8bKPc
+
+#EXTINF:-1 tvg-id="83957" tvg-name="US| BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.154/picons/logos/USA/83957.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=83957&extension=ts&play_token=8m4LtNheIn
+
+#EXTINF:-1 tvg-id="460918" tvg-name="US| ALTITUDE SPORTS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/460918.png" group-title="US| SPORTS NETWORK",US| ALTITUDE SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=460918&extension=ts&play_token=ETanAXNJ5b
+
+#EXTINF:-1 tvg-id="1557236" tvg-name="US| PURSUIT CHANNEL HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1557236.png" group-title="US| SPORTS NETWORK",US| PURSUIT CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1557236&extension=ts&play_token=fuS5kek1h3
+
+#EXTINF:-1 tvg-id="91951" tvg-name="US| COWBOY CHANNEL" tvg-logo="http://103.176.90.154/picons/logos/USA/91951.png" group-title="US| SPORTS NETWORK",US| COWBOY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=91951&extension=ts&play_token=H5mlBXz4ha
+
+#EXTINF:-1 tvg-id="90943" tvg-name="US| CSN PHILADELPHIA PLUS HD" tvg-logo="http://103.176.90.154/picons/logos/USA/90943.png" group-title="US| SPORTS NETWORK",US| CSN PHILADELPHIA PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=90943&extension=ts&play_token=8a4RLIny7o
+
+#EXTINF:-1 tvg-id="1799657" tvg-name="US| SPACE CITY HOME NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1799657.png" group-title="US| SPORTS NETWORK",US| SPACE CITY HOME NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1799657&extension=ts&play_token=W49xYINBhL
+
+#EXTINF:-1 tvg-id="1076781" tvg-name="US| FLORACING" tvg-logo="http://103.176.90.154/picons/logos/USA/1076781.png" group-title="US| SPORTS NETWORK",US| FLORACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1076781&extension=ts&play_token=4iVZSur75W
+
+#EXTINF:-1 tvg-id="45568" tvg-name="US| FOX SPORTS DETROIT HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45568.png" group-title="US| SPORTS NETWORK",US| FOX SPORTS DETROIT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=45568&extension=ts&play_token=DYxZa0o7tn
+
+#EXTINF:-1 tvg-id="45560" tvg-name="US| FOX SPORTS SUN HD" tvg-logo="http://103.176.90.154/picons/logos/USA/45560.png" group-title="US| SPORTS NETWORK",US| FOX SPORTS SUN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=45560&extension=ts&play_token=HbbJhBQHPV
+#EXTINF:-1 tvg-id="91900" tvg-name="US| MSG HD" tvg-logo="http://103.176.90.154/picons/logos/USA/91900.png" group-title="US| SPORTS NETWORK",US| MSG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=91900&extension=ts&play_token=0BmVUcSeLH
+#EXTINF:-1 tvg-id="1145401" tvg-name="US| NAUTICAL CHANNEL HD" tvg-logo="http://103.176.90.154/picons/logos/USA/1145401.png" group-title="US| SPORTS NETWORK",US| NAUTICAL CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1145401&extension=ts&play_token=KBN1H8z3HE
+#EXTINF:-1 tvg-id="90946" tvg-name="US| SPORTSNET NEW YORK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/90946.png" group-title="US| SPORTS NETWORK",US| SPORTSNET NEW YORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=90946&extension=ts&play_token=tlQrJ5qkHT
+#EXTINF:-1 tvg-id="91923" tvg-name="US| VSIN" tvg-logo="http://103.176.90.154/picons/logos/USA/91923.png" group-title="US| SPORTS NETWORK",US| VSIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=91923&extension=ts&play_token=gJFhmYFYRB
+#EXTINF:-1 tvg-id="90970" tvg-name="US| YES NETWORK HD" tvg-logo="http://103.176.90.154/picons/logos/USA/90970.png" group-title="US| SPORTS NETWORK",US| YES NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=90970&extension=ts&play_token=CUkXR1CGmt
+
+# ==============================
+# US| CBS NETWORK
+# ==============================
+
+#EXTINF:-1 tvg-id="173139" tvg-name="US| CBS 46 MONTEREY CA (KION)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 46 MONTEREY CA (KION)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173139&extension=ts&play_token=HrvU6bY3wp
+#EXTINF:-1 tvg-id="173145" tvg-name="US| CBS 11 COLORADO SPRINGS CO (KKTV)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 11 COLORADO SPRINGS CO (KKTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173145&extension=ts&play_token=g09Zzl7c9o
+#EXTINF:-1 tvg-id="173159" tvg-name="US| CBS 10 TAMPA FL (WTSP)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 10 TAMPA FL (WTSP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173159&extension=ts&play_token=hibu9DSbyD
+#EXTINF:-1 tvg-id="173160" tvg-name="US| CBS 12 WEST PALM BEACH FL (WPEC)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 12 WEST PALM BEACH FL (WPEC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173160&extension=ts&play_token=CPaITBBoeD
+#EXTINF:-1 tvg-id="173169" tvg-name="US| CBS 5 HONOLULU HI (KGMB)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 5 HONOLULU HI (KGMB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173169&extension=ts&play_token=a85ehLngaV
+#EXTINF:-1 tvg-id="173170" tvg-name="##### CBS IDAHO #####" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",##### CBS IDAHO #####
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173170&extension=ts&play_token=96RvOlXpjP
+#EXTINF:-1 tvg-id="173178" tvg-name="US| CBS 7 QUINCY IL (KHQA)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 7 QUINCY IL (KHQA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173178&extension=ts&play_token=GHzUOhvXDH
+#EXTINF:-1 tvg-id="173182" tvg-name="US| CBS 44 EVANSVILLE IN (WEVV)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 44 EVANSVILLE IN (WEVV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173182&extension=ts&play_token=lSeGyLw4HA
+#EXTINF:-1 tvg-id="173194" tvg-name="US| CBS 7 PITTSBURG KS (KOAM)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 7 PITTSBURG KS (KOAM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173194&extension=ts&play_token=ZrkyGS61YY
+#EXTINF:-1 tvg-id="173204" tvg-name="US| CBS 8 MONROE LA (KNOE)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 8 MONROE LA (KNOE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173204&extension=ts&play_token=84nmksz7iS
+#EXTINF:-1 tvg-id="173206" tvg-name="US| CBS 12 SHREVEPORT LA (KSLA)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 12 SHREVEPORT LA (KSLA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173206&extension=ts&play_token=NHNWHLyVIo
+#EXTINF:-1 tvg-id="173214" tvg-name="US| CBS 3 SPRINGFIELD MA (WSHM)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 3 SPRINGFIELD MA (WSHM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173214&extension=ts&play_token=G1R80tnUN5
+#EXTINF:-1 tvg-id="173231" tvg-name="US| CBS 13 JEFFERSON CITY MO (KRCG)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 13 JEFFERSON CITY MO (KRCG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173231&extension=ts&play_token=4svIHoPOKt
+#EXTINF:-1 tvg-id="173241" tvg-name="US| CBS 10 LINCOLN NE (KOLN)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 10 LINCOLN NE (KOLN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173241&extension=ts&play_token=Ro3mCsyYtO
+#EXTINF:-1 tvg-id="173244" tvg-name="US| CBS 8 LAS VEGAS NV (KLAS)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 8 LAS VEGAS NV (KLAS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173244&extension=ts&play_token=Zu40sHuYn1
+#EXTINF:-1 tvg-id="173251" tvg-name="US| CBS 6 ALBANY NY (WRGB)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 6 ALBANY NY (WRGB)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173251&extension=ts&play_token=VE48otL6Xb
+#EXTINF:-1 tvg-id="173250" tvg-name="US| CBS 10/55 RIVERHEAD NY (WLNY)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 10/55 RIVERHEAD NY (WLNY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173250&extension=ts&play_token=R4GZAvncWO
+#EXTINF:-1 tvg-id="173259" tvg-name="US| CBS 17 RALEIGH NC (WNCN)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 17 RALEIGH NC (WNCN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173259&extension=ts&play_token=b4NjZrchxy
+#EXTINF:-1 tvg-id="173276" tvg-name="US| CBS 7 BEND OR (KBNZ)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 7 BEND OR (KBNZ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173276&extension=ts&play_token=cLTV1lpgiN
+#EXTINF:-1 tvg-id="173285" tvg-name="US| CBS 2 PITTSBURGH PA (KDKA)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 2 PITTSBURGH PA (KDKA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173285&extension=ts&play_token=ffxFl6aUNn
+#EXTINF:-1 tvg-id="173288" tvg-name="US| CBS 12 PROVIDENCE RI (WPRI)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 12 PROVIDENCE RI (WPRI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173288&extension=ts&play_token=v5cKVNrTuL
+#EXTINF:-1 tvg-id="173290" tvg-name="US| CBS 5 CHARLESTON SC (WCSC)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 5 CHARLESTON SC (WCSC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173290&extension=ts&play_token=BJntkvwgFQ
+#EXTINF:-1 tvg-id="173298" tvg-name="US| CBS 12 CHATTANOOGA TN (WDEF)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 12 CHATTANOOGA TN (WDEF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173298&extension=ts&play_token=eeVpCPyI5V
+#EXTINF:-1 tvg-id="173320" tvg-name="US| CBS 10 WACO TX (KWTX)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 10 WACO TX (KWTX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173320&extension=ts&play_token=SZFJVVkBzV
+#EXTINF:-1 tvg-id="173314" tvg-name="US| CBS 13 LUBBOCK TX (KLBK)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 13 LUBBOCK TX (KLBK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173314&extension=ts&play_token=5Hr6QpVdL1
+#EXTINF:-1 tvg-id="173324" tvg-name="##### CBS VERMONT #####" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",##### CBS VERMONT #####
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173324&extension=ts&play_token=vmaWzPwzKz
+#EXTINF:-1 tvg-id="173329" tvg-name="US| CBS 6 RICHMOND VA (WTVR)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 6 RICHMOND VA (WTVR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173329&extension=ts&play_token=S77BCHAgNA
+#EXTINF:-1 tvg-id="173334" tvg-name="US| CBS 29 YAKIMA WA (KIMA)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 29 YAKIMA WA (KIMA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173334&extension=ts&play_token=XaHjiXrQyO
+#EXTINF:-1 tvg-id="173342" tvg-name="US| CBS 7 WAUSAU WI (WSAW)" tvg-logo="http://103.176.90.154/picons/logos/PPV/CBS.png" group-title="US| CBS NETWORK",US| CBS 7 WAUSAU WI (WSAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=173342&extension=ts&play_token=99nwwQ3i3Q
