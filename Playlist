@@ -22,9 +22,8 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-chno="173" tvg-id="NFL.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 2
-#EXTVLCOPT:http-referrer=https://monperson.shop/updatesnfl/green-bay-packers-vs-atlanta-falcons/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://fingersoon.st/scripts/application1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1921358&extension=ts&play_token=fn9HPFtdpT
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-chno="208" tvg-id="Live.Event.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 3
@@ -99,6 +98,9 @@ https://files.catbox.moe/scx9sh.mp4
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas1.m3u8
 https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas2.m3u8
 https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="TIMNAS INDONESIA" xui-id="25665",RCTI (Sport)
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
 
 #EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/820/513820-LOGO-m.png" group-title="[ID] Indonesia Channel 1",ANTV
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
