@@ -141,7 +141,7 @@ https://files.catbox.moe/scx9sh.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="[ID] Indonesia Channel 1",MNC TV
@@ -157,10 +157,16 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="[ID] Indonesia Channel 1",Trans7
-http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngj_BoXE4EWEoemSc8ftciOI
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 https://files.catbox.moe/scx9sh.mp4
 #EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/transtv.png" group-title="[ID] Indonesia Channel 1",Trans TV
-http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NggltK947J1NO0SmBLYogSmF
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="[ID] Indonesia Channel 1",RTV
