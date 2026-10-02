@@ -108,10 +108,8 @@ http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
 https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
-https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRF_6nFWrGOg9rpIeeKrSInNLXNu22CtwmFt92nxdRQ&s=10" tvg-name="Tsport",Tsport
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 
@@ -142,6 +140,21 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="[ID] Indonesia Channel 1",INDOSIAR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="[ID] Indonesia Channel 1",INDOSIAR 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="[ID] Indonesia Channel 1",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
