@@ -160,13 +160,14 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 https://files.catbox.moe/scx9sh.mp4
+
 #EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/transtv.png" group-title="[ID] Indonesia Channel 1",Trans TV
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="[ID] Indonesia Channel 1",RTV
