@@ -1940,19 +1940,19 @@ https://files.catbox.moe/scx9sh.mp4
 # DAZN CHANNELL
 # ==============================
 
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
+#EXTINF:0 group-title="DAZN CHANNELL" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
+#EXTINF:0 group-title="DAZN CHANNELL" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
+#EXTINF:0 group-title="DAZN CHANNELL" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
+#EXTINF:0 group-title="DAZN CHANNELL" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
+#EXTINF:0 group-title="DAZN CHANNELL" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
@@ -1966,13 +1966,13 @@ https://files.catbox.moe/scx9sh.mp4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="Dazn2" tvg-name="Dazn 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="DAZN CHANNELL",Dazn 2
+#EXTINF:-1 tvg-id="Dazn2" tvg-name="Dazn 2" tvg-logo="http://epg.one/img/6502.png" group-title="DAZN CHANNELL",Dazn 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:-1 tvg-id="Dazn3" tvg-name="Dazn 3" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="DAZN CHANNELL",Dazn 3
+#EXTINF:-1 tvg-id="Dazn3" tvg-name="Dazn 3" tvg-logo="http://epg.one/img/11418.png" group-title="DAZN CHANNELL",Dazn 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 https://files.catbox.moe/scx9sh.mp4
-#EXTINF:-1 tvg-id="Dazn5" tvg-name="Dazn 5" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="DAZN CHANNELL",Dazn 5
+#EXTINF:-1 tvg-id="Dazn5" tvg-name="Dazn 5" tvg-logo="http://epg.one/img/2919.png" group-title="DAZN CHANNELL",Dazn 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 https://files.catbox.moe/scx9sh.mp4
 #EXTINF:-1 tvg-id="DAZNFAST" tvg-name="DAZN FAST+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" group-title="DAZN CHANNELL",DAZN FAST+
