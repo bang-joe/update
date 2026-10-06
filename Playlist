@@ -3065,7 +3065,9 @@ https://files.catbox.moe/scx9sh.mp4
 # ==============================
 # [INT] All Sports Premium
 # ==============================
-
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-name="|NL| EUROSPORT 1 4K" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" group-title="[INT] All Sports Premium"& NL| NEDERLAND 4K",|NL| EUROSPORT 1 4K
+http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580812
+https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="|NL| ZIGGO SPORT 4 4K" tvg-logo="http://logo.ottcst.info/ZIGGOSPORTRACING.png" group-title="[INT] All Sports Premium"& NL| NEDERLAND 4K",|NL| ZIGGO SPORT 4 4K
 http://linje.ottct.pro:80/Berti/B6T6CJYJHP/580808
