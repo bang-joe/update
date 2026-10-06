@@ -39,57 +39,6 @@ https://files.catbox.moe/scx9sh.mp4
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-# ==============================
-# ASIAN GAMES 26
-# ==============================
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="ASIAN GAMES 26",Asian Games 2026 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ASIAN GAMES 26"  tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 7
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-https://files.catbox.moe/scx9sh.mp4
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="ASIAN GAMES 26" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 8
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-https://files.catbox.moe/scx9sh.mp4
 
 # ==============================
 # [ID] Indonesia Channel 1
@@ -3173,6 +3122,56 @@ https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 #EXTINF:-1 tvg-id="CNA" tvg-url="https://bit.ly/SingaporeEpg" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="Mediacorp Singapore",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKwqrduizs9EBwo1d2JMKBCD30kW9KJhyDjX2hsG4IG7XD5RKA8_rqxNo&s=10" tvg-id="itzplay.id" group-title="Mediacorp Singapore",Asian Games 2026 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Mediacorp Singapore"  tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 7
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+https://files.catbox.moe/scx9sh.mp4
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkcBH94-EKzr9-dRqva3wz_AelssKE6hpSp088BF6vSuw.png",ASIAN GAMES 8
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+https://files.catbox.moe/scx9sh.mp4
+
 
 # ==============================
 # Malaysia
