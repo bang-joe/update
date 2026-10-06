@@ -1267,9 +1267,6 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
-# === RCTI+ SECTION ===
-# Updated: 2026-09-24 03:37:04
-
 #EXTINF:-1 tvg-id="RCTI" group-title="Nasional Id Gabungan"Id Gabungan" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -1294,10 +1291,6 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790257024~hmac=91f3fb60eda13823418fed828c910a86d1b7e16e5e70114aa44e1fc435e2c712
 https://files.catbox.moe/scx9sh.mp4
-
-
-# === END RCTI+ SECTION ===
-
 
 # ==============================
 # All Sports Liga Eropa
