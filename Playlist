@@ -1640,7 +1640,6 @@ https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="9243" tvg-name="Nova Sport 3 HD CZ" tvg-logo="http://epg.one/img/9243.png" group-title="All Sports Liga Eropa",Nova Sport 3 HD CZ
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport3.m3u8
-#EXTINF:-1 group-title="All Sports Liga Eropa",scx9sh.mp4
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="9244" tvg-name="Nova Sport 5 HD CZ" tvg-logo="http://epg.one/img/9244.png" group-title="All Sports Liga Eropa",Nova Sport 5 HD CZ
