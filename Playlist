@@ -23,11 +23,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MotoGP" tvg-name="Moto GP" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",Moto GP
@@ -72,6 +72,10 @@ https://files.catbox.moe/scx9sh.mp4
 https://fingersoon.st/scripts/application3
 https://files.catbox.moe/scx9sh.mp4
 
+# ==============================
+# TIMNAS INDONESIA
+# ==============================
+
 
 #EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 4
 #EXTVLCOPT:http-referrer=https://streame.center
@@ -115,14 +119,12 @@ https://files.catbox.moe/scx9sh.mp4
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar SD" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="[ID] Indonesia Channel 1",Indosiar SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar SD" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="[ID] Indonesia Channel 1",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
-https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
-#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=9
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="[ID] Indonesia Channel 1",MNC TV
@@ -147,17 +149,19 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="[ID] Indonesia Channel 1",Trans7
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=007
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/transtv.png" group-title="[ID] Indonesia Channel 1",Trans TV
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=006
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvone.png" group-title="[ID] Indonesia Channel 1",TVOne
@@ -176,6 +180,70 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", Sportstars 3
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="[ID] Indonesia Channel 1", Sportstars 4
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="[ID] Indonesia Channel 1",Soccer Channel
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 1
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 2
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=123
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 3
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="[ID] Indonesia Channel 1",TVRI Sports
@@ -1344,6 +1412,30 @@ https://files.catbox.moe/scx9sh.mp4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 https://files.catbox.moe/scx9sh.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 1
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 2
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=123
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 3
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
 #EXTINF:-1 tvg-id="beINSportsextra.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="All Sports Liga Eropa", BEIN SPORTS EXTRA
 EXTVLCOPT:http-referrer=https://hd1.xemtv.net/kenh/beinsports-xtra.php
 #EXTINF:-1 group-title="All Sports Liga Eropa",playlist.m3u8
@@ -1397,19 +1489,27 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/DIGI_Sport_1.svg/1280px-DIGI_Sport_1.svg.png", DIGI SPORT 1
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/Digisport1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Digi_Sport_2_2012.png", DIGI SPORT 2
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/Digisport2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Digi_Sport_3_2012.png", DIGI SPORT 3
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/Digisport3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Digi_Sport_4_2012.png", DIGI SPORT 4
-https://raw.githubusercontent.com/B-inal-123/s-eropa/refs/heads/inal-22/Digisport4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Prima_Sport_1_new.svg/revision/latest/scale-to-width-down/150?cb=20220418213615" group-title="All Sports Liga Eropa" , PRIMA SPORT 1
@@ -1431,15 +1531,71 @@ https://sw.run/CAMPKTR-PRIMA-SPORT3
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Prima_Sport_4_HD.svg/revision/latest/scale-to-width-down/250?cb=20220420214101&path-prefix=es" group-title="All Sports Liga Eropa" , PRIMA SPORT 4
-#EXTVLCOPT:http-referrer=https://pulse1.xn--x2rv05jjkg.shop/000/
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://sw.run/CAMPKTR-PRIMA-SPORT4
+https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Prima_Sport_5_%28new%29.svg/revision/latest/scale-to-width-down/200?cb=20220416111908" group-title="All Sports Liga Eropa" ,PRIMA SPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.xn--x2rv05jjkg.shop/000/
-https://sw.run/CAMPKTR-PRIMA-SPORT5
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ee352aac7ed8ee1cb42cfdf322b1cb0:053d635fc90e175881bef26cd29f371e
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://shorter.me/sJbde", PREMIER SPORTS 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19fb8464136594ce0c66fe3589e88ef4:6a0efc4a82a1e087f093c3e5de3e2a3e
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="All Sports Liga Eropa", PREMIER SPORT 1
@@ -1481,6 +1637,12 @@ https://files.catbox.moe/scx9sh.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Er8-dTVko83l--r0pCyqbfA-BPZz_NfEV0DkosigVg&s", DSPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 https://files.catbox.moe/scx9sh.mp4
  
 #EXTINF:-1 tvg-id="DSPORTS 5" group-title="All Sports Liga Eropa" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", DSPORTS 5+
@@ -1590,19 +1752,19 @@ https://files.catbox.moe/scx9sh.mp4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv5.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="http://epg.one/img/2889.png" group-title="All Sports Liga Eropa",TNT Sports 1 HD UK
+#EXTINF:-1 tvg-id="2889" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="All Sports Liga Eropa",TNT Sports 1 HD UK
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="http://epg.one/img/2890.png" group-title="All Sports Liga Eropa",TNT Sports 2 HD UK
+#EXTINF:-1 tvg-id="2890" tvg-name="TNT Sports 2 HD UK" tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="All Sports Liga Eropa",TNT Sports 2 HD UK
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="All Sports Liga Eropa",TNT Sports 3 HD UK
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 3 HD UK" tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="All Sports Liga Eropa",TNT Sports 3 HD UK
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="http://epg.one/img/3560.png" group-title="All Sports Liga Eropa",TNT Sports 4 HD UK
+#EXTINF:-1 tvg-id="3560" tvg-name="TNT Sports 4 HD UK" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png" group-title="All Sports Liga Eropa",TNT Sports 4 HD UK
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
@@ -2088,6 +2250,11 @@ https://files.catbox.moe/scx9sh.mp4
 # Football League AFC
 # ==============================
 
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uewwGHPlTpTozW_8MljpFOpQi5dlCR3nyIaj8A_dTQ&s=10",MediaCorp Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3184,6 +3351,8 @@ https://files.catbox.moe/scx9sh.mp4
 
 #========================================================= Mediacorp Singapore ================================================#
 
+
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3191,6 +3360,16 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp Singapore",Channel 5
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAPN1XkaodgywgdZVy6Us1UCXT5mnghfVg&s", M Live 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDv3Px_63rhHZ1c_9cJy8_Ou7uJuaEVWBAQ&s", M Live 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
