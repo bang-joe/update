@@ -1375,8 +1375,7 @@ https://files.catbox.moe/scx9sh.mp4
 # All Sports Liga Eropa
 # ==============================
 
-#EXTINF:-1 group-title="All Sports Liga Eropa",cenc.mpd
-##EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://i.imgur.com/xKxM0rN.png", LALIGA TV
+#EXTINF:-1 group-title="All Sports Liga Eropa" tvg-logo="https://i.imgur.com/xKxM0rN.png", LALIGA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1386,7 +1385,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="beInSports" tvg-name="BEIN SPORTS Connect" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51a2AgtdDnkVVdkcWpWQRri-okjFyk4xeWUc8yr5EDg&s=10" group-title="All Sports Liga Eropa", BEIN SPORTS Connect
-#EXTVLCOPT:https://grandemx.org/
+#EXTVLCOPT:http-referer=https://grandemx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 hhttps://justkidding.junksonus.party/main/secure/ff6a14fa7348fc563bce975770c576bc2a9af2bfbd0237958c95bbfed78d080d/1791559862/beinconnect4-usa.m3u8
 
