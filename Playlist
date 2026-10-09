@@ -182,7 +182,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", Sportstars
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -190,7 +190,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png", Sportstars 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -198,7 +198,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", Sportstars 3
+#EXTINF:-1 group-title="[ID] Indonesia Channel 1" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png", Sportstars 3
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -206,7 +206,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="[ID] Indonesia Channel 1", Sportstars 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s" group-title="[ID] Indonesia Channel 1", Sportstars 4
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -222,7 +222,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/865/522865-LOGO-m.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 1
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -230,7 +230,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 2
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -238,7 +238,7 @@ https://files.catbox.moe/scx9sh.mp4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 3
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="[ID] Indonesia Channel 1", beIN Sports ID 3
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
