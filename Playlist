@@ -11,106 +11,15 @@ https://files.catbox.moe/dtnw94.mp4
 https://dl.dropboxusercontent.com/scl/fi/es0p8p9v2ay6bnbet3ujm/M.B.G-Mas-Bahlil-Ganteng-Full-Lirik-Lagu-Viral-2026-1080-X-1920-60fps.mp4?rlkey=4fbf8mzuzdxk1m9jtve3e8tg6&st=3ow51fp4&dl=1
 https://files.catbox.moe/scx9sh.mp4
 
-# ==============================
-# MOTOGP
-# ==============================
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+https://pull.streamviewk7x.click/livesp/sd-6Mxj4TBjTzY1booREa_autosp.m3u8?txSecret=5e5f8673ceaed11738b0b356d357f841&txTime=6AD0C3C4
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+https://live.dyrur1.com/live/14400810_6fc5379024769431fe190576b4129244_1080p.m3u8?auth_key=1791994180-0-0-bf5038505f52486f00c0ecc327ab78ec
 
-#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP", MotoGP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="MotoGP" tvg-name="Moto GP" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",Moto GP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="MOTOGP2" tvg-name="MOTOGP+2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMOTOGP.png" group-title="MOTOGP",Sky Sport MotoGP
-http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136919.ts
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="6561" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="http://epg.one/img2/6561.png" group-title="MOTOGP",Sky Sport MotoGP HD IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19133/index.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-
-# ==============================
-# UEFA NATIONS LEAGUE 2026
-# ==============================
-
-#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 1
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-chno="173" tvg-id="NFL.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1921358&extension=ts&play_token=fn9HPFtdpT
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-chno="208" tvg-id="Live.Event.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 3
-#EXTVLCOPT:http-referrer=https://monperson.shop/updates/portugal-vs-wales/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://fingersoon.st/scripts/application3
-https://files.catbox.moe/scx9sh.mp4
-
-# ==============================
-# TIMNAS INDONESIA
-# ==============================
-
-
-#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 4
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="Timnas Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG8-E2FMrfSJdolpS8dvS8GRRHh4P5gD-paStxFh2qw&s=10" group-title="TIMNAS INDONESIA",Timnas Indonesia
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas1.m3u8
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas2.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="TIMNAS INDONESIA" xui-id="25665",RCTI (Sport)
-http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
-
-#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" tvg-name="M LIVE 5",M LIVE 5
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
-https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
-
-#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRF_6nFWrGOg9rpIeeKrSInNLXNu22CtwmFt92nxdRQ&s=10" tvg-name="Tsport",Tsport
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+#EXTINF:-1 group-title="EVENT 014/OKTOBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Persib vs Viettel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
 # ==============================
 # [ID] Indonesia Channel 1
@@ -484,6 +393,109 @@ https://files.catbox.moe/scx9sh.mp4
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 https://files.catbox.moe/scx9sh.mp4
+
+# ==============================
+# MOTOGP
+# ==============================
+
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 group-title="MOTOGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP", MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="Moto GP" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",Moto GP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="MOTOGP2" tvg-name="MOTOGP+2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="http://103.240.148.55:8080/files/Picon/SKYSPORTMOTOGP.png" group-title="MOTOGP",Sky Sport MotoGP
+http://antman1.giize.com/live/valeri1./T9KJ65fzceats/136919.ts
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="6561" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="http://epg.one/img2/6561.png" group-title="MOTOGP",Sky Sport MotoGP HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19133/index.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+
+# ==============================
+# UEFA NATIONS LEAGUE 2026
+# ==============================
+
+#EXTINF:-1 tvg-chno="80" tvg-id="Soccer.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 1
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-chno="173" tvg-id="NFL.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://klaratv.com:80/play/live.php?mac=00:1A:79:C1:37:FC&stream=1921358&extension=ts&play_token=fn9HPFtdpT
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-chno="208" tvg-id="Live.Event.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 3
+#EXTVLCOPT:http-referrer=https://monperson.shop/updates/portugal-vs-wales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fingersoon.st/scripts/application3
+https://files.catbox.moe/scx9sh.mp4
+
+# ==============================
+# TIMNAS INDONESIA
+# ==============================
+
+
+#EXTINF:-1 tvg-chno="81" tvg-id="Soccer.Dummy.us" tvg-name="UEFA NATIONS LEAGUE 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcu-HW3lg-Al5-VVF87M5ClhFvSApRDqFHoSuGbwqjqg&s=10" group-title="UEFA NATIONS LEAGUE 2026",UEFA NATIONS LEAGUE 2026 4
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="Timnas Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG8-E2FMrfSJdolpS8dvS8GRRHh4P5gD-paStxFh2qw&s=10" group-title="TIMNAS INDONESIA",Timnas Indonesia
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas1.m3u8
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/timnas2.m3u8
+https://files.catbox.moe/scx9sh.mp4
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="TIMNAS INDONESIA" xui-id="25665",RCTI (Sport)
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAR3rI-lajymNSDdEVaq3qkzl4VxNKzljFs0QIHUJ6UA&s=10" tvg-name="M LIVE 5",M LIVE 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
+https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRF_6nFWrGOg9rpIeeKrSInNLXNu22CtwmFt92nxdRQ&s=10" tvg-name="Tsport",Tsport
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
+
+
 
 # ==============================
 # Indonesia Channel 2
@@ -2272,11 +2284,10 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  RCTI R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽRCTI R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://nontonlagi.rctiplus.id/abvia/persib/manifest.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTVLCOPT:http-user-agent=android-R+
