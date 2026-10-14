@@ -1982,6 +1982,9 @@ https://files.catbox.moe/scx9sh.mp4
 https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR9.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Afc 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinAfc.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="2618" tvg-name="beIN Sports Haber HD TR" tvg-logo="http://epg.one/img2/2618.png" group-title="beIN Sports",beIN Sports Haber HD TR
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2499/index.m3u8
