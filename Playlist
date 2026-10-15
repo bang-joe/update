@@ -15,9 +15,6 @@ https://files.catbox.moe/scx9sh.mp4
 # [ID] Indonesia Channel 1
 # ==============================
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/K16NaGdQPPgIS7sfJa07qSIm5NJksqx8sVb1z9AAWfruPGdPfgXb-9LxirlkpxTim1gTfxrMKdaTAnIYFNqC2m3JhVYwYgDO-vO0An5zc-pgFeXaBaig27-B81zNY92A.jpg" group-title="[ID] Indonesia Channel 1" xui-id="25665",RCTI (Sport)
-http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3
-
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rcti.png" group-title="[ID] Indonesia Channel 1",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -1267,6 +1264,27 @@ http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32034/index.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 # ==============================
+# SKY SPORTS
+# ==============================
+
+#EXTINF:0 group-title="SKY SPORT" tvg-id="9051" tvg-logo="http://epg.one/img/9051.png" tvg-rec="3",Sky Sports News HD 50 (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportnw.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4569" tvg-logo="http://epg.one/img/4569.png" tvg-rec="0",Sky Sports Premier League HD (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png" tvg-rec="0",Sky Sports Football HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4571" tvg-logo="http://epg.one/img/4571.png" tvg-rec="0",Sky Sports Main Event HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportm.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4573" tvg-logo="http://epg.one/img/4573.png" tvg-rec="0",Sky Sports Mix HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportmix.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4579" tvg-logo="http://epg.one/img/4579.png" tvg-rec="0",Sky Sports Action HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4575" tvg-logo="http://epg.one/img/4575.png" tvg-rec="0",Sky Sports Racing HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
+#EXTINF:0 group-title="SKY SPORT" tvg-id="4576" tvg-logo="http://epg.one/img/4576.png" tvg-rec="0",Sky Sports F1 HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
+
+# ==============================
 # Football Club Channel
 # ==============================
 
@@ -1323,114 +1341,158 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 UA
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 3 UA
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 4 UA
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 group-title="Football League AFC" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 5 UA
+http://stream.mcquack.net/212/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  RCTI R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nontonlagi.rctiplus.id/abvia/persib/manifest.m3u8
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽGTV R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-https://files.catbox.moe/scx9sh.mp4
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  â–ŽiNews R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://files.catbox.moe/scx9sh.mp4
-
-
-----------------------------------------------------------------------------------------Champions League Two----------------------------------------------------------------------------------------
-
-
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽRCTI R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://files.catbox.moe/scx9sh.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  GTV R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽGTV R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://files.catbox.moe/scx9sh.mp4
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J94wq02.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Elite  iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽiNews R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://files.catbox.moe/scx9sh.mp4
 
-
-----------------------------------------------------------------------------------------Challenge League----------------------------------------------------------------------------------------
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽRCTI R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽGTV R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-https://files.catbox.moe/scx9sh.mp4
-#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHGoVl.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Champions League Two  â–ŽiNews R+
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://files.catbox.moe/scx9sh.mp4
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽSPOTV Ph
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-https://files.catbox.moe/scx9sh.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽSPOTV 2 Ph
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-https://files.catbox.moe/scx9sh.mp4
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽFancode 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  Fancode 1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  â–ŽFancode 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTLlKQW.jpeg" tvg-id="itzplay.id" group-title="Football League AFC", Saudi Pro League ðŸ‡¸ðŸ‡¦  Fancode 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 
 ==========PREMIUM SPORT========
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="🔴PREMIUM SPORT",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="🔴PREMIUM SPORT",DD Sports
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ddsports.m3u8
+
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="🔴PREMIUM SPORT",A Sports
+#https://cdn-6.pishow.tv/live/13/master.m3u8
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="🔴PREMIUM SPORT",Sony Sports
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="🔴PREMIUM SPORT",Sony Sports 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="🔴PREMIUM SPORT",Star Sports 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
+
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2939" tvg-logo="http://epg.one/img/2939.png" tvg-rec="3",Nova Sport 1 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport1.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2940" tvg-logo="http://epg.one/img/2940.png" tvg-rec="3",Nova Sport 2 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport2.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="9243" tvg-logo="http://epg.one/img/9243.png" tvg-rec="0",Nova Sport 3 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport3.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="9244" tvg-logo="http://epg.one/img/9244.png" tvg-rec="0",Nova Sport 4 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport4.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="9244" tvg-logo="http://epg.one/img/9244.png" tvg-rec="0",Nova Sport 5 HD CZ
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/novasport5.m3u8
+
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport 1 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport1.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport 2 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport2.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport 3 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport3.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport 4 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport4.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="http://epg.one/img/2944.png" tvg-rec="3",Ziggo Sport 5 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ziggosport5.m3u8
+
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png",Sports Net HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png",Sports Net 2 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet2.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4536" tvg-logo="http://epg.one/img/4536.png" tvg-rec="0",Sport Klub 1 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4537" tvg-logo="http://epg.one/img/4537.png" tvg-rec="0",Sport Klub 2 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub2.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4538" tvg-logo="http://epg.one/img/4538.png" tvg-rec="0",Sport Klub 3 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub3.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4539" tvg-logo="http://epg.one/img/4539.png" tvg-rec="0",Sport Klub 4 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub4.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4540" tvg-logo="http://epg.one/img/4540.png" tvg-rec="0",Sport Klub 5 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub5.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4541" tvg-logo="http://epg.one/img/4541.png" tvg-rec="0",Sport Klub 6 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub6.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4542" tvg-logo="http://epg.one/img/4542.png" tvg-rec="0",Sport Klub 7 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub7.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4543" tvg-logo="http://epg.one/img/4543.png" tvg-rec="0",Sport Klub 8 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub8.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4544" tvg-logo="http://epg.one/img/4544.png" tvg-rec="0",Sport Klub Golf HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub9.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="4545" tvg-logo="http://epg.one/img/4545.png" tvg-rec="0",Sport Klub Fight HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub10.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" tvg-rec="3",S-Sport 1 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" tvg-rec="3",S-Sport 2 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports2.m3u8
+#EXTINF:0 group-title="🔴PREMIUM SPORT" tvg-id="2944" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" tvg-rec="3",S-Sport 3 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 FHD GE
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/6805.png" tvg-rec="3",Setanta Sports 2 HD GE
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/2370.png" tvg-rec="0",Setanta Sports UA
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/6860.png" tvg-rec="0",Setanta Sports+ UA
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 UA
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 3 UA
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 4 UA
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 5 UA
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://sportbusiness.media/wp-content/uploads/2025/07/znimok-ekrana-2025-07-08-o-13.55.56.jpg",Maincast sport
+http://stream.mcquack.net/490/index.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/2055.png" tvg-rec="7",Viju+ Sport HD
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/4910.png" tvg-rec="0",TV3 Sport SE
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/7509.png" tvg-rec="0",QazSport HD KZ
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="http://epg.one/img/2053.png" tvg-rec="0",Extreme Sports HD
+http://stream.mcquack.net/148/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA+" tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="🔴PREMIUM SPORT",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -2408,13 +2470,12 @@ https://files.catbox.moe/scx9sh.mp4
 #========================================================= Mediacorp Singapore ================================================#
 
 
-
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp Singapore",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp Singapore",Channel 5
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvAPN1XkaodgywgdZVy6Us1UCXT5mnghfVg&s", M Live 5
