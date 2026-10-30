@@ -80,7 +80,7 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTINF:-1 tvg-id="INEWS" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/inews.png" group-title="[ID] Indonesia Channel 1",iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://beetv.my.id/jabingan/rcti.m3u8?id=4
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="[ID] Indonesia Channel 1",UFC 
