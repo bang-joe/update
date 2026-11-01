@@ -484,7 +484,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MOTOGP" tvg-name="MOTOGP+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",MOTOGP+
-http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965327.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="MotoGP" tvg-name="Moto GP" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="MOTOGP",Moto GP
