@@ -86,8 +86,8 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="[ID] Indonesia Channel 1",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="[ID] Indonesia Channel 1",TVRI Sports
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRIsports.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="[ID] Indonesia Channel 1",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="Mojitv" tvg-name="Moji tv" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="[ID] Indonesia Channel 1",Moji tv
