@@ -227,10 +227,10 @@ https://files.catbox.moe/scx9sh.mp4
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Nasional" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="[ID] Indonesia Channel 1",TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/tvri/index.m3u8
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Nasional" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="[ID] Indonesia Channel 1",TVRI Sport
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/tvrisport00.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRIsports.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://files.catbox.moe/scx9sh.mp4
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Jakarta" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="[ID] Indonesia Channel 1",TVRI Jakarta
