@@ -47,6 +47,7 @@ https://files.catbox.moe/scx9sh.mp4
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="[ID] Indonesia Channel 1",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://linier-mnctv.rctiplus.id/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 https://files.catbox.moe/scx9sh.mp4
